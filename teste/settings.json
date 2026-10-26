@@ -1,0 +1,5 @@
+{
+    "script": {
+        "start": "./exercicio1/src/main.java"
+    }
+}
